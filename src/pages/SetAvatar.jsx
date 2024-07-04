@@ -60,7 +60,7 @@ function SetAvatar(props) {
 
             if (data.isSet) {
                 user.isAvatarImageSet = true;
-                user.avatarImage = data.avatarImage;
+                user.avatarImage = data.image;
                 localStorage.setItem("userDetails", JSON.stringify(user));
                 navigate('/');
             } else {
