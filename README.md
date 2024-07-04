@@ -1,5 +1,11 @@
 # SNAP Chat App
 
+![Login](https://github.com/Sanketbhattad28/snap-chat-app-client/assets/45588753/1370754a-147d-4554-aae3-122eea5d5c15)
+![register](https://github.com/Sanketbhattad28/snap-chat-app-client/assets/45588753/772fde23-5e94-45f4-9990-5a3b8e8f7d09)
+![avatar](https://github.com/Sanketbhattad28/snap-chat-app-client/assets/45588753/c32b03bd-c679-4c37-8221-1bf33151e06c)
+![chat1](https://github.com/Sanketbhattad28/snap-chat-app-client/assets/45588753/c8167218-b9a1-459d-87ad-fb0efe432335)
+![chat2](https://github.com/Sanketbhattad28/snap-chat-app-client/assets/45588753/4237b2a7-1378-4091-bb9e-68b5b4c4e92c)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
